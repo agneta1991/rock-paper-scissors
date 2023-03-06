@@ -1,13 +1,20 @@
 const choice = ['Rock', 'Paper', 'Scissors'];
-const computerChoice = choice[Math.floor(Math.random() * choice.length)];
 let playerScore = 0;
 let computerScore = 0;
+const btn = document.querySelectorAll('button');
+
+function reset() {
+    playerScore = 0;
+    computerScore = 0;
+    btn.forEach((individualBtn) => {
+        individualBtn.classList.remove('none');
+    });
+}
 
 function round() {
-    const btn = document.querySelectorAll('button');
-
     btn.forEach((individualBtn) => {
         individualBtn.addEventListener('click', () => {
+           let computerChoice = choice[Math.floor(Math.random() * choice.length)];
             document.getElementById('playerChoice').innerHTML = individualBtn.className + ' against '
             document.getElementById('computerChoice').innerHTML = computerChoice;
 
