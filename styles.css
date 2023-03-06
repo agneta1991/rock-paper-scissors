@@ -3,7 +3,9 @@ body{
     background-size:100%;
 }
 
-
+.none{
+    display: none;
+}
 .container1, .container2, .container3{
     color: rgb(128, 146, 161);
     text-shadow: 2px 2px black;
