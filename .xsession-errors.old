@@ -1,0 +1,170 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/agneta/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting LC_ADDRESS=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_NAME=uk_UA.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting LC_MONETARY=uk_UA.UTF-8
+dbus-update-activation-environment: setting PWD=/home/agneta
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LOGNAME=agneta
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/agneta/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/agneta
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/agneta
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US
+dbus-update-activation-environment: setting LC_PAPER=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=uk_UA.UTF-8
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=agneta
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=uk_UA.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfwm4:9222): GLib-CRITICAL **: 17:20:12.924: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:9222): xfwm4-WARNING **: 17:20:13.532: Unsupported GL renderer (llvmpipe (LLVM 13.0.1, 256 bits)).
+
+(xfsettingsd:9235): GLib-CRITICAL **: 17:20:13.743: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:9235): GLib-GObject-CRITICAL **: 17:20:13.745: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:9235): GLib-GObject-CRITICAL **: 17:20:13.760: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:9235): GLib-GObject-CRITICAL **: 17:20:13.764: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(wrapper-2.0:9261): GLib-GIO-CRITICAL **: 17:20:14.566: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:9261): GLib-GIO-CRITICAL **: 17:20:14.566: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:9261): GLib-GObject-WARNING **: 17:20:14.566: invalid (NULL) pointer instance
+
+(wrapper-2.0:9261): GLib-GObject-CRITICAL **: 17:20:14.566: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:9261): Gtk-WARNING **: 17:20:14.566: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:9261): Gtk-WARNING **: 17:20:14.605: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:9263): WARNING **: 17:20:14.644: No outputs have backlight property
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+
+(wrapper-2.0:9263): xfce4-power-manager-plugin-WARNING **: 17:20:14.884: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(wrapper-2.0:9264): Gtk-WARNING **: 17:20:14.918: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:9259): Gtk-WARNING **: 17:20:14.930: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(process:9366): ayatana-indicator-application-service-WARNING **: 17:20:15.003: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(polkit-gnome-authentication-agent-1:9340): GLib-CRITICAL **: 17:20:15.058: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:9340): polkit-gnome-1-WARNING **: 17:20:15.059: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(wrapper-2.0:9263): Gtk-WARNING **: 17:20:15.187: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xiccd:9374): WARNING **: 17:20:15.364: EDID is empty
+
+** (xfce4-power-manager:9384): WARNING **: 17:20:15.469: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:9384): WARNING **: 17:20:15.478: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:9384): GLib-GObject-WARNING **: 17:20:15.539: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x55ce68b73110' of type 'GDBusProxy'
+
+(xfce4-power-manager:9384): xfce4-power-manager-WARNING **: 17:20:15.754: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:9384): WARNING **: 17:20:15.764: No outputs have backlight property
+
+** (xfce4-screensaver:9372): WARNING **: 17:20:15.772: screensaver already running in this session
+
+(xfce4-power-manager:9384): xfce4-power-manager-WARNING **: 17:20:15.776: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path ?/org/freedesktop/UPower/KbdBacklight?
+blueman-applet 17.20.16 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.20.16 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+
+** (xiccd:9374): WARNING **: 17:20:22.042: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.064: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.297: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.304: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.368: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.378: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.566: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.570: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.795: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.799: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.844: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.856: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:22.928: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.080: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.113: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.150: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.168: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.318: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:23.322: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:24.376: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:24.388: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:24.494: EDID is empty
+
+** (xiccd:9374): WARNING **: 17:20:24.500: EDID is empty
+WARNING:root:timeout reached, exiting
+blueman-applet 17.20.37 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+(users-admin:9552): Gtk-CRITICAL **: 17:21:27.814: gtk_list_store_set_valist: assertion 'iter_is_valid (iter, list_store)' failed
+
+(users-admin:9552): Gtk-CRITICAL **: 17:21:54.508: gtk_list_store_set_valist: assertion 'iter_is_valid (iter, list_store)' failed
+
+(xfce4-power-manager:9384): Gtk-WARNING **: 17:22:16.365: A floating object was finalized. This means that someone
+called g_object_unref() on an object that had only a floating
+reference; the initial floating reference is not owned by anyone
+and must be removed with g_object_ref_sink().
+X connection to :0.0 broken (explicit kill or server shutdown).

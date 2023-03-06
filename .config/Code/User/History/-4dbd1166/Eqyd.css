@@ -1,0 +1,86 @@
+body{
+    background-image: url('images/background.jpg');
+    background-size:100%;
+}
+h1, h2{
+    line-height: 90%;
+}
+
+.container1, .container2, .container3{
+    border: solid black;
+    color: rgb(128, 146, 161);
+    text-shadow: 2px 2px black;
+    font-size: 20px;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+img{
+    width: auto ;
+    height: 200px ;
+    border-style: double;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+button{
+    background-color: transparent;
+    padding: 0%;
+    border-color: transparent;
+}
+
+
+img { 
+    -webkit-filter:
+    grayscale(100%);
+    filter:grayscale(100%);
+    -webkit-transition: .2s
+    ease-in-out;
+    transition: .2s ease-in-out;
+
+}
+
+img:hover {
+    -webkit-filter:grayscale(0);
+    filter:grayscale(0);
+    
+}
+
+.playerScore, .computerScore {
+    line-height: 80%;
+    border: black;
+    width: 240px;
+    border-style: double;
+    background-image: linear-gradient(to right, rgba(156, 146, 146, 0.055),rgb(44, 42, 42) );
+}
+
+.score{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    
+}
+
+#playerChoice, #computerChoice{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+

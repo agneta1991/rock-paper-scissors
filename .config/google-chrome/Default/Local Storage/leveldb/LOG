@@ -1,0 +1,27 @@
+2023/03/06-09:28:08.009 5 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/06-09:28:08.009 5 Recovering log #19
+2023/03/06-09:28:08.010 5 Reusing old log /home/agneta/.config/google-chrome/Default/Local Storage/leveldb/000019.log 
+2023/03/06-09:53:14.803 3 Level-0 table #23: started
+2023/03/06-09:53:14.814 3 Level-0 table #23: 289283 bytes OK
+2023/03/06-09:53:14.819 3 Delete type=0 #19
+2023/03/06-10:15:51.148 3 Level-0 table #25: started
+2023/03/06-10:15:51.151 3 Level-0 table #25: 20089 bytes OK
+2023/03/06-10:15:51.154 3 Delete type=0 #22
+2023/03/06-10:15:51.154 3 Compacting 4@0 + 1@1 files
+2023/03/06-10:15:51.168 3 Generated table #26@0: 349 keys, 666605 bytes
+2023/03/06-10:15:51.168 3 Compacted 4@0 + 1@1 files => 666605 bytes
+2023/03/06-10:15:51.172 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/06-10:15:51.174 3 Delete type=2 #20
+2023/03/06-10:15:51.174 3 Delete type=2 #23
+2023/03/06-10:15:51.174 3 Delete type=2 #25
+2023/03/06-10:15:51.174 3 Delete type=2 #18
+2023/03/06-10:15:51.174 3 Delete type=2 #16
+2023/03/06-10:16:15.320 3 Level-0 table #28: started
+2023/03/06-10:16:15.324 3 Level-0 table #28: 46911 bytes OK
+2023/03/06-10:16:15.327 3 Delete type=0 #24
+2023/03/06-12:36:13.676 2a Level-0 table #30: started
+2023/03/06-12:36:13.685 2a Level-0 table #30: 21130 bytes OK
+2023/03/06-12:36:13.690 2a Delete type=0 #27
+2023/03/06-13:12:06.916 3 Level-0 table #32: started
+2023/03/06-13:12:06.925 3 Level-0 table #32: 18081 bytes OK
+2023/03/06-13:12:06.931 3 Delete type=0 #29

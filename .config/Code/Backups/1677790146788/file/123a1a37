@@ -1,0 +1,26 @@
+file:///home/agneta/Desktop/coding/js.js {"mtime":1677844599722,"ctime":1677843202149,"size":551,"etag":"3a7lh3427ho","orphaned":false,"typeId":""}
+const choice = ['Rock', 'Paper', 'Scissors'];
+const computerChoice = choice[Math.floor(Math.random()*choice.length)];
+
+const btn = document.querySelectorAll('button');
+
+function oneClick(){
+    btn.forEach((individualBtn)=>{
+    individualBtn.addEventListener('click', ()=>{
+        console.log(individualBtn.className);
+        document.getElementById ('playerChoice').innerHTML = individualBtn.className + ' against '
+        document.getElementById('computerChoice').innerHTML = computerChoice;
+    });
+});
+}
+oneClick();
+
+function comparison{
+    switch(roundWinner){
+        case
+    }
+}
+
+function playRound(){
+
+}

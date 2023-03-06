@@ -1,0 +1,6 @@
+2023/03/02-23:03:44.553 8f82 Creating DB /home/agneta/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2023/03/02-23:03:44.566 8f82 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/03-08:44:45.385 957e Level-0 table #5: started
+2023/03/03-08:44:45.388 957e Level-0 table #5: 2087 bytes OK
+2023/03/03-08:44:45.390 957e Delete type=0 #3
+2023/03/03-08:44:45.390 957e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

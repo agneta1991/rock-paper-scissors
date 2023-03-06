@@ -1,0 +1,15 @@
+2023-03-02 22:58:09.483 [info] Starting worker process with pid 36398 (type: fileWatcher, window: 1).
+2023-03-02 22:58:13.438 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-02 22:59:07.253 [info] Starting worker process with pid 36513 (type: fileWatcher, window: 3).
+2023-03-02 22:59:14.253 [info] Worker process with pid 36513 terminated normally (type: fileWatcher, window: 3).
+2023-03-03 03:57:17.981 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-03 16:01:31.600 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-03 21:16:32.992 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-03 22:29:44.476 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-04 00:36:25.308 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-04 11:21:28.377 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-04 21:21:28.506 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-04 22:50:14.685 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-05 04:28:10.327 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-06 04:28:48.480 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-06 04:29:10.249 [info] Starting worker process with pid 49680 (type: fileWatcher, window: 4).

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rock Paper Scissors</title>
+    <link rel="styleSheet" href='styles.css'>
+</head>
+<body>
+    <script src="js.js" defer></script>
+    <div class="container1">
+        <div class="title">
+            <h1>Welcome to the game </h1>
+            <h2><span>Rock, Paper & Scissors</span>!</h2>
+            <p>To start the game, you need to choose your weapon:<br>
+            <span>Rock</span> beats scissors, <br>
+            <span>Paper</span> beats rock, <br>
+            <span>Scissors</span> beat paper,</p>
+            <p>One game is 5 rounds, it is <span style="color: darkblue">YOU</span> against the <span style="color: darkmagenta">computer!</span><br>
+            Let the player with highest score win.<br>
+        <span>Good Luck!</span></p>
+        </div>
+    </div>
+    <div class ="container2">
+        <div class="options">
+            <button class="Rock"> <img src='images/rock.png'></button>
+            <button class="Paper"><img src='images/paper.png'></button>
+            <button class="Scissors"><img src='images/scissors.png'></button>
+        </div>
+    </div>
+    <div class="container3">
+        <div class="choices">
+            <div id="playerChoice"></div><div id="computerChoice"></div>
+        </div>
+
+        <div id="msg"></div>
+
+        <div class="score">
+            <div class="playerScore">
+                <span>Your score</span>
+                <div id="displayedPlayerScore"></div>
+            </div>
+            <div class="computerScore">
+                <span>Computer score</span>
+                <div id="displayedComputerScore"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

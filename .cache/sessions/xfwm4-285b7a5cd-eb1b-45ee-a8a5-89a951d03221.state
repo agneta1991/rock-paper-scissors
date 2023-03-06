@@ -1,0 +1,13 @@
+[CLIENT] 0x4400003
+  [CLIENT_ID] 2528010a0-ad90-47f6-b2c1-dd13d7662c32
+  [CLIENT_LEADER] 0x4400001
+  [WINDOW_ROLE] xfce4-terminal-1677770448-4100184113
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - agneta@xubuntu15: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (1,49,577,387)
+  [GEOMETRY-MAXIMIZED] (1,49,577,387)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

@@ -1,0 +1,358 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/agneta/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting LC_ADDRESS=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_NAME=uk_UA.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting LC_MONETARY=uk_UA.UTF-8
+dbus-update-activation-environment: setting PWD=/home/agneta
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LOGNAME=agneta
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/agneta/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/agneta
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/agneta
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US
+dbus-update-activation-environment: setting LC_PAPER=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=uk_UA.UTF-8
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=agneta
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=uk_UA.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfwm4:1412): xfwm4-WARNING **: 17:20:06.462: Unsupported GL renderer (llvmpipe (LLVM 13.0.1, 256 bits)).
+
+** (wrapper-2.0:1451): WARNING **: 17:20:07.301: No outputs have backlight property
+
+(wrapper-2.0:1447): GLib-GIO-CRITICAL **: 17:20:07.354: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1447): GLib-GIO-CRITICAL **: 17:20:07.354: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1447): GLib-GObject-WARNING **: 17:20:07.354: invalid (NULL) pointer instance
+
+(wrapper-2.0:1447): GLib-GObject-CRITICAL **: 17:20:07.354: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1447): Gtk-WARNING **: 17:20:07.354: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1447): Gtk-WARNING **: 17:20:07.421: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1452): Gtk-WARNING **: 17:20:07.445: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:1445): Gtk-WARNING **: 17:20:07.458: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1451): Gtk-WARNING **: 17:20:07.502: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+
+(polkit-gnome-authentication-agent-1:1507): GLib-CRITICAL **: 17:20:07.705: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1507): polkit-gnome-1-WARNING **: 17:20:07.707: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(process:1532): ayatana-indicator-application-service-WARNING **: 17:20:07.798: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+** (xfce4-power-manager:1557): WARNING **: 17:20:07.968: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:1557): WARNING **: 17:20:07.969: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:1557): GLib-GObject-WARNING **: 17:20:07.985: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x561934a5e920' of type 'GDBusProxy'
+
+** (xiccd:1543): WARNING **: 17:20:08.041: EDID is empty
+
+(xfce4-power-manager:1557): xfce4-power-manager-WARNING **: 17:20:08.250: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:1557): WARNING **: 17:20:08.276: No outputs have backlight property
+
+(xfce4-power-manager:1557): xfce4-power-manager-WARNING **: 17:20:08.293: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path ?/org/freedesktop/UPower/KbdBacklight?
+
+** (xfce4-screensaver:1540): WARNING **: 17:20:08.338: screensaver already running in this session
+blueman-applet 17.20.08 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.20.08 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+WARNING:root:can not import unity GI Namespace Dbusmenu not available
+WARNING:root:Error loading .desktop file /usr/share/applications/vim.desktop: constructor returned NULL
+blueman-applet 17.20.24 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+/var/lib/dpkg/lock: 
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 22:08:34.367: Source ID 182 was not found when attempting to remove it
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:40:57.113: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[34368:34368:0302/224435.366544:ERROR:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:45:27.017: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:48:14.398: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:48:57.958: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:50:33.142: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:52:14.258: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+/var/lib/apt/lists/lock:
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:53:32.648: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:54:54.845: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:55:17.788: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfce4-terminal:32735): libxfce4ui-CRITICAL **: 22:56:02.296: xfce_titled_dialog_update_icon: assertion 'icon_name != NULL' failed
+
+(xfdesktop:1442): GLib-CRITICAL **: 22:58:04.046: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/agneta/[Invalid UTF-8]" does not exist. It won't be used when spawning "/usr/share/code/code".libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[36261:0302/225804.575434:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+[36288:0302/225805.098540:ERROR:command_buffer_proxy_impl.cc(126)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+
+(xfdesktop:1442): GLib-CRITICAL **: 22:59:05.013: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/agneta/[Invalid UTF-8]" does not exist. It won't be used when spawning "/usr/share/code/code".libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[36470:0302/225905.469194:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+[36228:0302/230151.951525:ERROR:x11_drag_context.cc(150)] XConvertSelection failed for source-advertised target 512
+[36228:0302/230151.976406:ERROR:x11_drag_context.cc(150)] XConvertSelection failed for source-advertised target 369
+[36228:0302/230152.001253:ERROR:x11_drag_context.cc(150)] XConvertSelection failed for source-advertised target 367
+[36228:0302/230152.026426:ERROR:x11_drag_context.cc(150)] XConvertSelection failed for source-advertised target 361
+
+(xfdesktop:1442): GLib-CRITICAL **: 23:02:06.600: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/agneta/[Invalid UTF-8]" does not exist. It won't be used when spawning "/usr/bin/google-chrome-stable".libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[36756:36756:0302/230207.052307:ERROR:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+
+** (xiccd:1543): WARNING **: 23:05:07.869: EDID is empty
+
+** (xiccd:1543): WARNING **: 23:05:07.913: EDID is empty
+
+** (xiccd:1543): WARNING **: 23:05:08.210: EDID is empty
+
+** (xiccd:1543): WARNING **: 23:05:08.219: EDID is empty
+thunar-volman: Could not detect the volume corresponding to the device.
+thunar-volman: Could not detect the volume corresponding to the device.
+[91m[main 2023-03-03T01:57:23.841Z][0m Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[36714:38270:0303/035723.848571:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+[36714:36742:0303/035725.344071:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+** (xiccd:1543): WARNING **: 08:42:32.894: EDID is empty
+
+** (xiccd:1543): WARNING **: 08:42:32.910: EDID is empty
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 08:43:21.989: Source ID 327 was not found when attempting to remove it
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 08:49:21.939: Source ID 938 was not found when attempting to remove it
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+** (xiccd:1543): WARNING **: 09:30:41.503: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:30:41.516: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:31:54.498: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:31:54.510: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:32:15.476: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:32:15.497: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:32:54.849: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:32:54.855: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:33:39.355: EDID is empty
+
+** (xiccd:1543): WARNING **: 09:33:39.361: EDID is empty
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+** (xiccd:1543): WARNING **: 10:00:52.348: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:00:52.355: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:06.209: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:06.237: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:06.325: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:06.337: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:09.389: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:09.395: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:09.717: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:09.726: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:15.817: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:15.860: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:21.292: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:01:21.297: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:19.168: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:19.201: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:30.191: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:30.200: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:37.947: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:13:37.962: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:14:52.945: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:14:52.955: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:14:53.662: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:14:53.670: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:24:19.275: EDID is empty
+
+** (xiccd:1543): WARNING **: 10:24:19.288: EDID is empty
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+
+** (xiccd:1543): WARNING **: 13:57:51.713: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:57:51.727: EDID is empty
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 13:59:21.934: Source ID 990 was not found when attempting to remove it
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 16:01:31.542: Source ID 3199 was not found when attempting to remove it
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 21:16:32.684: Source ID 3266 was not found when attempting to remove it
+[36714:36742:0303/211654.445987:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 22:28:48.399: Source ID 3270 was not found when attempting to remove it
+[36714:36742:0303/222944.574109:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+[36714:36742:0304/003625.386261:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 00:36:25.394: Source ID 3317 was not found when attempting to remove it
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 03:00:03.658: Source ID 3372 was not found when attempting to remove it
+[91m[main 2023-03-04T09:21:28.580Z][0m Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[36714:36738:0304/112128.662524:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+[36714:36742:0304/112128.664322:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+[36714:36742:0304/112130.344126:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+[36714:36742:0304/112130.896258:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+[36714:36742:0304/112137.905527:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/112140.439976:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36714:0304/112203.728456:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+[91m[main 2023-03-04T19:21:28.467Z][0m Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[36714:36742:0304/212128.509656:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/212726.655819:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/213726.692531:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/214726.700039:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/215726.705188:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/220726.712589:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/221726.720358:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 22:50:14.263: Source ID 3382 was not found when attempting to remove it
+[91m[main 2023-03-04T20:50:14.633Z][0m Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[36714:36742:0304/225014.774271:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+[36714:36742:0304/225200.425143:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+[36714:36742:0305/042811.574347:ERROR:checkin_request.cc(240)] Check-in request got net error: -15
+[36714:36742:0305/042833.985136:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+** (xiccd:1543): WARNING **: 04:29:05.410: EDID is empty
+
+** (xiccd:1543): WARNING **: 04:29:05.433: EDID is empty
+
+** (xiccd:1543): WARNING **: 04:29:06.118: EDID is empty
+
+** (xiccd:1543): WARNING **: 04:29:06.121: EDID is empty
+
+(xfdesktop:1442): GLib-CRITICAL **: 04:29:08.890: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/agneta/[Invalid UTF-8]" does not exist. It won't be used when spawning "/usr/share/code/code".libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[49639:0306/042909.161159:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 08:38:11.752: Source ID 3440 was not found when attempting to remove it
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[51159:51159:0306/092808.041085:ERROR:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 10:28:11.760: Source ID 3658 was not found when attempting to remove it
+[51114:51114:0306/111300.790561:ERROR:CONSOLE(0)] "Not allowed to load local resource: file:///home/agneta/Desktop/coding/images/background.jpg", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@f34f7ab2d4ca4ad498ef42aeba4f4eb2c1392d63/&can_dock=true&panel=elements (0)
+
+** (xiccd:1543): WARNING **: 11:35:45.592: EDID is empty
+
+** (xiccd:1543): WARNING **: 11:35:45.663: EDID is empty
+
+** (xiccd:1543): WARNING **: 11:35:49.532: EDID is empty
+
+** (xiccd:1543): WARNING **: 11:35:49.553: EDID is empty
+
+** (xiccd:1543): WARNING **: 11:35:49.784: EDID is empty
+
+** (xiccd:1543): WARNING **: 11:35:49.802: EDID is empty
+[51114:51114:0306/113909.020819:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 12:22:11.757: Source ID 5232 was not found when attempting to remove it
+
+(xfce4-power-manager:1557): GLib-CRITICAL **: 12:28:11.762: Source ID 6782 was not found when attempting to remove it
+
+** (xiccd:1543): WARNING **: 12:30:22.478: EDID is empty
+
+** (xiccd:1543): WARNING **: 12:30:22.505: EDID is empty
+
+** (xiccd:1543): WARNING **: 12:30:22.571: EDID is empty
+
+** (xiccd:1543): WARNING **: 12:30:22.579: EDID is empty
+
+** (xiccd:1543): WARNING **: 12:30:22.656: EDID is empty
+thunar-volman: Could not detect the volume corresponding to the device.
+
+** (xiccd:1543): WARNING **: 13:07:01.966: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:07:01.969: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:07:05.310: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:07:05.313: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:07:05.575: EDID is empty
+
+** (xiccd:1543): WARNING **: 13:07:05.594: EDID is empty

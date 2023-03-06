@@ -1,0 +1,47 @@
+2023-03-02 22:49:12.166 [info] Extension host with pid 34693 started
+2023-03-02 22:49:12.638 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-02 22:49:12.754 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-02 22:49:12.910 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-02 22:49:13.067 [info] Extension host terminating: parent process 34664 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+2023-03-02 22:49:13.075 [info] Extension host with pid 34693 exiting with code 0
+2023-03-02 22:49:13.080 [info] Eager extensions activated
+2023-03-02 22:49:13.082 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-03-02 22:49:13.082 [error] Canceled: Canceled
+	at new a (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at V.<computed>.Q.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at f.Y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11539)
+	at Object.actualActivateExtension (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8591)
+	at f.n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at D.k (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at D.j (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at D.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at D.activateById (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10068)
+	at f.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15044)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15733
+2023-03-02 22:49:13.082 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-03-02 22:49:13.082 [error] Canceled: Canceled
+	at new a (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at V.<computed>.Q.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at f.Y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11539)
+	at Object.actualActivateExtension (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8591)
+	at f.n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at D.k (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at D.j (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at D.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at D.activateById (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10068)
+	at f.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15044)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15733

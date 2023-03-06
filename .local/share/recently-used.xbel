@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/agneta/Desktop/coding/index.html" added="2023-03-02T20:59:41.678854Z" modified="2023-03-06T06:54:53.715710Z" visited="2023-03-02T20:59:41.678855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-06T06:54:53.715707Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agneta/Desktop/coding/styles.css" added="2023-03-02T21:00:10.652413Z" modified="2023-03-06T06:36:54.060576Z" visited="2023-03-02T21:00:10.652416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-06T06:36:54.060575Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agneta/Desktop/coding/javascript.js" added="2023-03-02T21:00:25.123250Z" modified="2023-03-06T06:55:05.412677Z" visited="2023-03-02T21:00:25.123251Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-06T06:55:05.412674Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agneta/Desktop/coding/js.js" added="2023-03-03T11:33:21.871788Z" modified="2023-03-06T06:36:54.060569Z" visited="2023-03-03T11:33:21.871789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-06T06:36:54.060567Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agneta/Desktop/coding/index2.html" added="2023-03-03T11:34:56.907603Z" modified="2023-03-06T06:36:54.060557Z" visited="2023-03-03T11:34:56.907604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-06T06:36:54.060554Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

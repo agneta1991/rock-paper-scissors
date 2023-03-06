@@ -1,0 +1,36 @@
+2023/03/02-23:02:07.030 3 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/02-23:02:07.030 3 Recovering log #3
+2023/03/02-23:02:07.031 3 Reusing old log /home/agneta/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2023/03/03-09:00:19.300 3 Level-0 table #5: started
+2023/03/03-09:00:19.305 3 Level-0 table #5: 45170 bytes OK
+2023/03/03-09:00:19.310 3 Delete type=0 #3
+2023/03/03-09:15:48.972 3 Level-0 table #7: started
+2023/03/03-09:15:48.981 3 Level-0 table #7: 18924 bytes OK
+2023/03/03-09:15:48.984 3 Delete type=0 #4
+2023/03/03-09:39:53.093 22 Level-0 table #9: started
+2023/03/03-09:39:53.103 22 Level-0 table #9: 87855 bytes OK
+2023/03/03-09:39:53.106 22 Delete type=0 #6
+2023/03/03-09:41:42.731 3 Level-0 table #11: started
+2023/03/03-09:41:42.743 3 Level-0 table #11: 167364 bytes OK
+2023/03/03-09:41:42.745 3 Delete type=0 #8
+2023/03/03-09:48:41.763 3 Level-0 table #13: started
+2023/03/03-09:48:41.775 3 Level-0 table #13: 212708 bytes OK
+2023/03/03-09:48:41.780 3 Delete type=0 #10
+2023/03/03-09:49:34.830 3 Level-0 table #15: started
+2023/03/03-09:49:34.841 3 Level-0 table #15: 28801 bytes OK
+2023/03/03-09:49:34.843 3 Delete type=0 #12
+2023/03/03-09:49:34.844 3 Compacting 4@0 + 1@1 files
+2023/03/03-09:49:34.856 3 Generated table #16@0: 209 keys, 320772 bytes
+2023/03/03-09:49:34.856 3 Compacted 4@0 + 1@1 files => 320772 bytes
+2023/03/03-09:49:34.858 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/03-09:49:34.860 3 Delete type=2 #15
+2023/03/03-09:49:34.860 3 Delete type=2 #9
+2023/03/03-09:49:34.860 3 Delete type=2 #7
+2023/03/03-09:49:34.860 3 Delete type=2 #13
+2023/03/03-09:49:34.860 3 Delete type=2 #11
+2023/03/03-09:49:59.364 3 Level-0 table #18: started
+2023/03/03-09:49:59.374 3 Level-0 table #18: 82191 bytes OK
+2023/03/03-09:49:59.383 3 Delete type=0 #14
+2023/03/03-10:23:29.123 2c Level-0 table #20: started
+2023/03/03-10:23:29.134 2c Level-0 table #20: 173576 bytes OK
+2023/03/03-10:23:29.137 2c Delete type=0 #17

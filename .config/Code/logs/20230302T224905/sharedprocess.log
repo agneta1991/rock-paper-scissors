@@ -1,0 +1,4 @@
+2023-03-02 22:49:10.945 [info] Started initializing default profile extensions in extensions installation folder. file:///home/agneta/.vscode/extensions
+2023-03-02 22:49:11.792 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/agneta/.vscode/extensions Unable to create file 'vscode-userdata:/home/agneta/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-02 22:49:11.792 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/agneta/.vscode/extensions
+2023-03-02 22:49:12.064 [info] Starting worker process with pid 34745 (type: fileWatcher, window: 1).

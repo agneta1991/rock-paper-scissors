@@ -1,0 +1,7 @@
+2023/03/06-11:51:50.394 c7c2 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-11:51:50.394 c7c2 Recovering log #3
+2023/03/06-11:51:50.394 c7c2 Reusing old log /home/agneta/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/000003.log 
+2023/03/06-11:52:53.039 d990 Level-0 table #5: started
+2023/03/06-11:52:53.042 d990 Level-0 table #5: 23861 bytes OK
+2023/03/06-11:52:53.043 d990 Delete type=0 #3
+2023/03/06-11:52:53.043 d990 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
