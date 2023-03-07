@@ -1,3 +1,15 @@
-2023/03/06-10:15:47.265 c7c2 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/06-10:15:47.266 c7c2 Recovering log #4
-2023/03/06-10:15:47.267 c7c2 Reusing old log /home/agneta/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/03/07-11:14:57.112 c7c2 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/07-11:14:57.112 c7c2 Recovering log #4
+2023/03/07-11:14:57.114 c7c2 Reusing old log /home/agneta/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/03/07-11:15:46.431 12839 Level-0 table #8: started
+2023/03/07-11:15:46.435 12839 Level-0 table #8: 81878 bytes OK
+2023/03/07-11:15:46.437 12839 Delete type=0 #4
+2023/03/07-11:15:46.437 12839 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/07-11:15:46.437 12839 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x01\x0d\x001\x006\x008\x003\x000\x001\x002\x005\x003\x006\x000\x004\x004\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3714 : 0
+2023/03/07-11:15:46.437 12839 Compacting 1@1 + 1@2 files
+2023/03/07-11:15:46.442 12839 Generated table #9@1: 471 keys, 34645 bytes
+2023/03/07-11:15:46.442 12839 Compacted 1@1 + 1@2 files => 34645 bytes
+2023/03/07-11:15:46.443 12839 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/07-11:15:46.444 12839 Delete type=2 #5
+2023/03/07-11:15:46.444 12839 Delete type=2 #8
+2023/03/07-11:15:46.444 12839 Manual compaction at level-1 from '\x00\x08\x01\x1f\x01\x0d\x001\x006\x008\x003\x000\x001\x002\x005\x003\x006\x000\x004\x004\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3714 : 0 .. (end); will stop at (end)

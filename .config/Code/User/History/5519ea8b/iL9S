@@ -1,0 +1,336 @@
+edsfaasd
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   Desktop/coding/etch-a-sketch/index.html
+#	modified:   Desktop/coding/etch-a-sketch/js.js
+#	modified:   Desktop/coding/etch-a-sketch/styles.css
+#
+# Changes not staged for commit:
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/12ed6e0c7d56a241_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/15145040f7f12f31_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/161b00a20482e3e6_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/1d1ddcabce7226e9_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/2d656658d52b08f0_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/34b4ef0d277b8e33_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/367a3fe8d0ff79d1_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/442af0b747660815_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/46945d3108ecd2c4_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/475bac9df7a72201_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/4cacbe29e41d5f50_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/543c3eac4d2824e2_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/630be3cc2862d753_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/645f34ff25069e8f_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/668b2887793230a4_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6c6290f99b004032_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6f8fbb00a99cfcc5_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6ff7e5ee3509ed53_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/878b0f723bb46fc9_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/8c4b2ce2077f8e21_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/93d81321f8c35eab_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ad36e3215c4649b1_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ae0a71163ebc9b4c_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/aedffab2cb0eaa46_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b2637e42df9a52cf_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b84085b4eaa5fe71_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/d63c4bdbcc8bc112_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/e2685c57122b5e18_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/e85ac8952d7783d7_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/f3f4949f8aad0b1d_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/f4fef0711e3bb9de_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/fb445643a55aa1f3_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   .cache/google-chrome/Default/Code Cache/js/335e69ddec2b9ac6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/3ef25735145cd4a0_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/7be88e7acc909cb8_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/801b0a634fb2625f_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/b5a4cbeda3f42093_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/c98bbb45a59e10c5_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/030ed617aa47d123_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/042d7df824737b5f_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/10bb65bc6bf51a61_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/1536c34fdc780a4a_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/2afb9234f93e4f78_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/316c3909e88a3d4a_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/42ff6423e3f12340_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/459cb1a09af2d37f_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/4ad5b956e7ed1685_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/5cb4bcf091b717b8_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/86138673e368f702_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/8965faf3ed6e0336_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/8b8a80e66e354285_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/9696f443b5a86a1d_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/bfb8edc2e1cb619d_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/c3bd681956aa5429_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/d48deb1f2cd5d3e6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/da0f96c9a6624ae0_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/ec2ea01270fb2bd6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/ed5dfde38ee8f7aa_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/f424236a3d06985b_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/fab21c50cb9e433b_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/fb4a6d9a2c327883_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/index-dir/the-real-index
+#	modified:   .config/Code/Cache/Cache_Data/a97c96d98c7c4739_0
+#	modified:   .config/Code/Cache/Cache_Data/index-dir/the-real-index
+#	deleted:    .config/Code/CachedExtensions/user
+#	modified:   .config/Code/User/globalStorage/storage.json
+#	modified:   .config/dconf/user
+#	deleted:    .config/google-chrome/BrowserMetrics-spare.pma
+#	modified:   .config/google-chrome/CrashpadMetrics-active.pma
+#	deleted:    .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log
+#	deleted:    .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000005.ldb
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000026.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000028.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000030.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000031.log
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000032.ldb
+#	modified:   .config/google-chrome/Default/Network Persistent State
+#	modified:   .config/google-chrome/Default/Preferences
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d2b91bf0-e949-4102-8b96-358c32802374/0a41c5226f4ea45c_0
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d2b91bf0-e949-4102-8b96-358c32802374/index-dir/the-real-index
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/0ae129c33e7a30bd_0
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/0ae129c33e7a30bd_1
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/2a0afd649b00527b_0
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/2a0afd649b00527b_1
+#	modified:   .config/google-chrome/Default/Service Worker/ScriptCache/index-dir/the-real-index
+#	modified:   .config/google-chrome/Default/TransportSecurity
+#	modified:   .config/google-chrome/Default/WebStorage/QuotaManager-journal
+#	modified:   .config/google-chrome/Local State
+#	modified:   .config/google-chrome/Safe Browsing/UrlMalBin.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlMalware.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlSoceng.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlUws.store
+#	modified:   .config/google-chrome/ShaderCache/index
+#	modified:   .config/google-chrome/Variations
+#	modified:   .local/share/keyrings/login.keyring
+#
+# Untracked files:
+#	.cache/google-chrome/Default/Cache/Cache_Data/00c1731d8561ea61_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/02bf0993307c6739_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/04540213ca015093_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/06485e9ebb888bc9_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/076af21fcd04b98e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/0a2dd52b82cab452_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/1193e67920f21158_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/136f9471308fe510_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/14d3bd67a4632bb1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/14f8386a765fef25_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/16ba261a43eaf968_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/17fd8ca4716de325_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/18016efa2910dcb2_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/184ac0871fb21def_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/19b262b9a347c5a6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/1a93153ab46635fe_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/1aa4516f0cabe5b3_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/1cbb107e91cd7d2b_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/209122520b661585_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/229888aca3710090_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2760886adb841782_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2a899d54bedeb424_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2a89b14ac2539edf_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2b905d4b70a132e1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2bb2cc543738b082_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2d07c642d52606b6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2db6052b3164b3a9_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2f498a57718b9556_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/306279f527a273a3_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/30a6d11bab9267ba_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/325bcece4e25c6aa_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/32ce3958fb84e5b2_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/33f6cd11bc507828_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/36b81c8f8ed6d7c7_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/36ed4702193b9f72_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/36f0218ce387a74c_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/38c0020dd3572404_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3bc9007a61390831_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3c3076b652ac9893_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3d7a1f2491e6fd3f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3db5f98d2ec3ff46_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3dd0e3c8e69de98c_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3e07e5d38fabccc6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3ec9974c26f4033f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3fba09da776b8034_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/43193770be41043b_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/43421309cfdeb5ae_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4493d0478e212d72_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4536e4baf3d1ffa0_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4a93bae2667013b5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4c7b511e1e51ef78_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4cb16fcfad5eed34_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4e71172ac425f71f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5175db4cffe7a394_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/57248f0454a9dd12_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/595097bc368dfac0_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5985fe2cc6a772a6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/598f009340608322_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5a3333c9f75a12d3_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5b1f67d9e71de5f1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5c2719ec4f47d870_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5c2d838ed39e4f8e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5eb6f62770d24447_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/64ad3d678bf02535_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/652aedd2d7a15bbc_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/6584b5d8efd562db_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/67558781fbdac501_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/681baba5d93383a2_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/6a6b6562dedb321e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/6c1f9d724c90b098_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/72d34a6fd043fa52_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/73054f37b7759577_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/7326b08ffc5dafaa_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/74fa2390aeb8029e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/781d3771e46fd222_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/784f24c1e1ad2932_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/7b1ba3d0eb494b76_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/7bf6ee8ca4a4dceb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/7caf6370ec1f85df_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/81321a408f62156a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/821659e9ec8f9a29_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8438fb53012cead7_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/856e4fe49b784227_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/857a7a589c469513_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/85e250eed9f68f60_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/86aaf60ec88e2b35_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8a85194630a2ddf8_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8bb82b3c4f8bf5ff_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8bb872809482054d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8c4616fd1348fc8e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8d8e7901581f8825_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/8fa5df0242a6d3a1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/94625c44943ec9b8_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/9530eaa344fe4a6e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/95d2684d5bf59de5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/97949be9e632e0d5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/9819923f8c445dfb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/9980128c28481613_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/9ba86d5cec60493e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/9cce0a213b25ccca_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a01be4548294eb57_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a057ff4a85886ebc_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a0e4ce7008d7b1cc_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a1483bb6179cb705_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a2968df5ee9d80c4_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a3fc962f4261530f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a42a761ef9cbce04_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a4677c223378dfef_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a4804d2554d5c4a3_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a612e88f43d98bff_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a63f64deaabbc6e9_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a65ae75ebeb80def_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a6c9bfd5e617725a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a6f0eba87fecaa9e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a6fa84ac995d3f9a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a733eadd48034bce_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a74b98922b07da8d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a81c1d10783fc00a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ab207acba112382f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ad83b003b92c5948_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/adb2c8cf4ef83d9a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/af411adb1dc7cf9d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/af6e8f4d3ed0ee79_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/af82b70478650a32_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b3fbbb1463a91081_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b600f31be7f1ecd5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b796f306ab908ea6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/baa84afb3fe38c0a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bc8604d20b8861fa_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bd75aeca1ccc061d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/be3ca61b09c2ddf1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/be41d8400c773724_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bf00bdab9b07ada9_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bfbd265ee5e43363_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c359fd9dc2ea3461_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c36c97c8ecac2f68_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c3e2feccf34d18da_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c530d48e6ebc3062_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c5ca3169c785d939_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c65331ebb18b220b_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c73d1afa737b44d5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c9241b7be85b907d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/cba65ea93fb7fef7_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/cd71c9cfc283e02f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d09ca6763e1ee5e1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d127fd526deac896_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d4f7cfce9a0b3815_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d540dc5c0b0108cc_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d6135e5ed5e34d67_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d7d5b62907974e11_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d86b4cb9f47f0693_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/dc01d220a65be372_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/dc4d307b343564fa_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/dd30172b258f4392_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ddbf33923c876f2c_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ddf1fcc437060c5d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e16afb44c56a0c28_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e1790cdbb6297eee_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e5f8e19a3ee022b8_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e7c23d3d2c0b1acb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ea6688cdf41852ba_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/ebdc5c6baa99fe2c_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/f5b1ca0c5ba464ba_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/fa3c6a1d8c675979_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/fa548096da6b8a79_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/fcd224e3a56b488a_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/fd95a6ea3de3a2d2_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/fe989dff95c6ae87_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/febc7ac697573785_0
+#	.cache/google-chrome/Default/Code Cache/js/07b30b5dc59df8f1_0
+#	.cache/google-chrome/Default/Code Cache/js/187b11637430d0a7_0
+#	.cache/google-chrome/Default/Code Cache/js/1ec991397b9ed787_0
+#	.cache/google-chrome/Default/Code Cache/js/21b1e127bb95674f_0
+#	.cache/google-chrome/Default/Code Cache/js/238625bf2acb6494_0
+#	.cache/google-chrome/Default/Code Cache/js/2437b10d37c2b23a_0
+#	.cache/google-chrome/Default/Code Cache/js/29744afefff40c78_0
+#	.cache/google-chrome/Default/Code Cache/js/3660507890b38b7c_0
+#	.cache/google-chrome/Default/Code Cache/js/3947ceec905cbb11_0
+#	.cache/google-chrome/Default/Code Cache/js/4a9b9f41f898c915_0
+#	.cache/google-chrome/Default/Code Cache/js/4da3b89ab4fb9f52_0
+#	.cache/google-chrome/Default/Code Cache/js/577c99c58e8b14a3_0
+#	.cache/google-chrome/Default/Code Cache/js/7491fb30d909da90_0
+#	.cache/google-chrome/Default/Code Cache/js/79d799844366001b_0
+#	.cache/google-chrome/Default/Code Cache/js/7e58bf98de994ebd_0
+#	.cache/google-chrome/Default/Code Cache/js/82d84437d20b65be_0
+#	.cache/google-chrome/Default/Code Cache/js/8a9e6f8413a98d97_0
+#	.cache/google-chrome/Default/Code Cache/js/8b9221a61d0928d5_0
+#	.cache/google-chrome/Default/Code Cache/js/8d5d6570eafafcfa_0
+#	.cache/google-chrome/Default/Code Cache/js/9641f823a4f8b614_0
+#	.cache/google-chrome/Default/Code Cache/js/9d6d7a265c48cdf5_0
+#	.cache/google-chrome/Default/Code Cache/js/a1dd1c67e566fae2_0
+#	.cache/google-chrome/Default/Code Cache/js/ae81d355cc993cc8_0
+#	.cache/google-chrome/Default/Code Cache/js/bf4cdc17a7b4901c_0
+#	.cache/google-chrome/Default/Code Cache/js/c2e7a5147e485887_0
+#	.cache/google-chrome/Default/Code Cache/js/d4d9950eba863a89_0
+#	.cache/google-chrome/Default/Code Cache/js/d6db708fdf53cdb1_0
+#	.cache/google-chrome/Default/Code Cache/js/d748c67a63e38254_0
+#	.cache/google-chrome/Default/Code Cache/js/d7b1b80950fdb3ac_0
+#	.cache/google-chrome/Default/Code Cache/js/d940648ed3b724f0_0
+#	.cache/google-chrome/Default/Code Cache/js/dbedec93ac01c05f_0
+#	.cache/google-chrome/Default/Code Cache/js/ee6c8ee899db9dad_0
+#	.cache/google-chrome/Default/Code Cache/js/f4757afa4bbc4302_0
+#	.cache/google-chrome/Default/Code Cache/js/f751147152973b58_0
+#	.config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/extension-a87391d7798736ad60a8e706cec49aa9.code
+#	.config/Code/User/History/5a52c738/
+#	.config/Code/User/History/6dd8532d/
+#	.config/Code/User/History/7acfcf88/
+#	.config/google-chrome/BrowserMetrics/BrowserMetrics-6406FF56-1242B.pma
+#	.config/google-chrome/CrashpadMetrics.pma
+#	.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log
+#	.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000009.ldb
+#	.config/google-chrome/Default/Local Storage/leveldb/000040.log
+#	.config/google-chrome/Default/Local Storage/leveldb/000041.ldb
+#	.config/google-chrome/Default/Service Worker/ScriptCache/2687cdb408524ecb_0
+#	.config/google-chrome/Default/Service Worker/ScriptCache/2687cdb408524ecb_1
+#	.config/google-chrome/Default/Service Worker/ScriptCache/ad0c92dfa52e69b6_0
+#	.config/google-chrome/Default/Service Worker/ScriptCache/ad0c92dfa52e69b6_1
+#	Desktop/coding/rock-paper-scissors/
+#	etch-a-sketch/
+#

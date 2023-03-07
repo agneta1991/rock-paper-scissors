@@ -1,11 +1,11 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/agneta/Desktop/coding/rock-paper-scissors": "__default__profile__"
+        },
         "emptyWindows": {
-            "1677790146788": "__default__profile__",
-            "1677790746263": "__default__profile__",
-            "1678069749409": "__default__profile__"
+            "1678178436907": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -15,13 +15,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1677790146788"
-            },
-            {
-                "backupFolder": "1677790746263"
-            },
-            {
-                "backupFolder": "1678069749409"
+                "backupFolder": "1678178436907"
             }
         ]
     },
@@ -67,6 +61,53 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agneta/Desktop/coding/rock-paper-scissors",
+                                        "path": "/home/agneta/Desktop/coding/rock-paper-scissors",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/coding/rock-paper-scissors"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agneta/Desktop/coding/rock-paper-scissors/index.html",
+                                        "path": "/home/agneta/Desktop/coding/rock-paper-scissors/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/coding/rock-paper-scissors/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agneta/Desktop/coding/rock-paper-scissors/js.js",
+                                        "path": "/home/agneta/Desktop/coding/rock-paper-scissors/js.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/coding/rock-paper-scissors/js.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agneta/Desktop/coding/rock-paper-scissors/styles.css",
+                                        "path": "/home/agneta/Desktop/coding/rock-paper-scissors/styles.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/coding/rock-paper-scissors/styles.css"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -179,6 +220,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -503,7 +551,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -1074,8 +1123,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1661,43 +1709,22 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 205,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/agneta/.config/Code/Backups/1678069749409",
+            "backupPath": "/home/agneta/.config/Code/Backups/1678178436907",
             "uiState": {
                 "mode": 1,
-                "x": 394,
-                "y": 49,
+                "x": 129,
+                "y": 165,
                 "width": 1024,
                 "height": 768
             }
         },
-        "openedWindows": [
-            {
-                "backupPath": "/home/agneta/.config/Code/Backups/1677790146788",
-                "uiState": {
-                    "mode": 1,
-                    "x": 122,
-                    "y": 49,
-                    "width": 818,
-                    "height": 894
-                }
-            },
-            {
-                "backupPath": "/home/agneta/.config/Code/Backups/1678069749409",
-                "uiState": {
-                    "mode": 1,
-                    "x": 394,
-                    "y": 49,
-                    "width": 1024,
-                    "height": 768
-                }
-            }
-        ]
+        "openedWindows": []
     }
 }
