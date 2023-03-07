@@ -1,6 +1,6 @@
-2023/03/02-23:02:07.255 3 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2023/03/02-23:02:07.259 3 Recovering log #3
-2023/03/02-23:02:07.261 3 Reusing old log /home/agneta/.config/google-chrome/Default/Session Storage/000003.log 
-2023/03/03-09:52:12.713 3 Level-0 table #5: started
-2023/03/03-09:52:12.717 3 Level-0 table #5: 19632 bytes OK
-2023/03/03-09:52:12.721 3 Delete type=0 #3
+2023/03/06-09:28:08.216 3 Reusing MANIFEST /home/agneta/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/03/06-09:28:08.217 3 Recovering log #4
+2023/03/06-09:28:08.217 3 Reusing old log /home/agneta/.config/google-chrome/Default/Session Storage/000004.log 
+2023/03/06-09:57:09.180 e Level-0 table #8: started
+2023/03/06-09:57:09.183 e Level-0 table #8: 13488 bytes OK
+2023/03/06-09:57:09.188 e Delete type=0 #4

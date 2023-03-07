@@ -39,3 +39,23 @@ ssh -T git@github.com
 # Attempts to ssh to GitHub
 cat ~/.ssh/id_ed25519.pub
 ssh -T git@github.com
+ls
+cd desltop
+cd Desltop
+cd coding
+wmi
+p
+git clone git@github.com:agneta1991/etch-a-sketch.git
+cd etch-a-sketch
+git branch -M main
+cd
+git@github.com:agneta1991/Etch-a-Sketch.git
+cd etch-a-sketch
+git@github.com:agneta1991/Etch-a-Sketch.git
+echo "# Etch-a-Sketch" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:agneta1991/Etch-a-Sketch.git
+git push -u origin main

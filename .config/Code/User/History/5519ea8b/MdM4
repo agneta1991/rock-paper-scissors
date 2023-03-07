@@ -1,0 +1,708 @@
+first commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/00c1731d8561ea61_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/02bf0993307c6739_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/04540213ca015093_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/06485e9ebb888bc9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/076af21fcd04b98e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/0a2dd52b82cab452_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/1193e67920f21158_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/12ed6e0c7d56a241_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/136f9471308fe510_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/14d3bd67a4632bb1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/14f8386a765fef25_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/15145040f7f12f31_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/161b00a20482e3e6_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/16ba261a43eaf968_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/17fd8ca4716de325_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/18016efa2910dcb2_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/184ac0871fb21def_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/19b262b9a347c5a6_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/1a93153ab46635fe_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/1aa4516f0cabe5b3_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/1cbb107e91cd7d2b_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/1d1ddcabce7226e9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/209122520b661585_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/229888aca3710090_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2760886adb841782_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2a899d54bedeb424_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2a89b14ac2539edf_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2b905d4b70a132e1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2bb2cc543738b082_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2d07c642d52606b6_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/2d656658d52b08f0_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2db6052b3164b3a9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/2f498a57718b9556_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/306279f527a273a3_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/30a6d11bab9267ba_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/325bcece4e25c6aa_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/32ce3958fb84e5b2_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/33f6cd11bc507828_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/34b4ef0d277b8e33_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/367a3fe8d0ff79d1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/36b81c8f8ed6d7c7_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/36ed4702193b9f72_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/36f0218ce387a74c_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/38c0020dd3572404_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3bc9007a61390831_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3c3076b652ac9893_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3d7a1f2491e6fd3f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3db5f98d2ec3ff46_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3dd0e3c8e69de98c_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3e07e5d38fabccc6_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3ec9974c26f4033f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/3fba09da776b8034_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/43193770be41043b_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/43421309cfdeb5ae_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/442af0b747660815_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4493d0478e212d72_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4536e4baf3d1ffa0_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/46945d3108ecd2c4_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/475bac9df7a72201_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4a93bae2667013b5_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4c7b511e1e51ef78_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/4cacbe29e41d5f50_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4cb16fcfad5eed34_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/4e71172ac425f71f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5175db4cffe7a394_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/543c3eac4d2824e2_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/57248f0454a9dd12_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/595097bc368dfac0_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5985fe2cc6a772a6_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/598f009340608322_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5a3333c9f75a12d3_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5b1f67d9e71de5f1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5c2719ec4f47d870_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5c2d838ed39e4f8e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/5eb6f62770d24447_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/630be3cc2862d753_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/645f34ff25069e8f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/64ad3d678bf02535_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/652aedd2d7a15bbc_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/6584b5d8efd562db_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/668b2887793230a4_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/67558781fbdac501_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/681baba5d93383a2_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/6a6b6562dedb321e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/6c1f9d724c90b098_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6c6290f99b004032_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6f8fbb00a99cfcc5_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6ff7e5ee3509ed53_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/72d34a6fd043fa52_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/73054f37b7759577_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/7326b08ffc5dafaa_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/74fa2390aeb8029e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/781d3771e46fd222_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/784f24c1e1ad2932_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/7b1ba3d0eb494b76_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/7bf6ee8ca4a4dceb_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/7caf6370ec1f85df_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/81321a408f62156a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/821659e9ec8f9a29_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8438fb53012cead7_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/856e4fe49b784227_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/857a7a589c469513_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/85e250eed9f68f60_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/86aaf60ec88e2b35_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/878b0f723bb46fc9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8a85194630a2ddf8_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8bb82b3c4f8bf5ff_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8bb872809482054d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8c4616fd1348fc8e_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/8c4b2ce2077f8e21_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8d8e7901581f8825_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/8fa5df0242a6d3a1_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/93d81321f8c35eab_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/94625c44943ec9b8_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/9530eaa344fe4a6e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/95d2684d5bf59de5_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/97949be9e632e0d5_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/9819923f8c445dfb_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/9980128c28481613_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/9ba86d5cec60493e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/9cce0a213b25ccca_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a01be4548294eb57_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a057ff4a85886ebc_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a0e4ce7008d7b1cc_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a1483bb6179cb705_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a2968df5ee9d80c4_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a3fc962f4261530f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a42a761ef9cbce04_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a4677c223378dfef_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a4804d2554d5c4a3_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a612e88f43d98bff_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a63f64deaabbc6e9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a65ae75ebeb80def_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a6c9bfd5e617725a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a6f0eba87fecaa9e_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a6fa84ac995d3f9a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a733eadd48034bce_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a74b98922b07da8d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/a81c1d10783fc00a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ab207acba112382f_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ad36e3215c4649b1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ad83b003b92c5948_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/adb2c8cf4ef83d9a_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ae0a71163ebc9b4c_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/aedffab2cb0eaa46_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/af411adb1dc7cf9d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/af6e8f4d3ed0ee79_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/af82b70478650a32_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b2637e42df9a52cf_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/b3fbbb1463a91081_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/b600f31be7f1ecd5_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/b796f306ab908ea6_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b84085b4eaa5fe71_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/baa84afb3fe38c0a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/bc8604d20b8861fa_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/bd75aeca1ccc061d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/be3ca61b09c2ddf1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/be41d8400c773724_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/bf00bdab9b07ada9_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/bfbd265ee5e43363_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c359fd9dc2ea3461_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c36c97c8ecac2f68_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c3e2feccf34d18da_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c530d48e6ebc3062_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c5ca3169c785d939_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c65331ebb18b220b_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c73d1afa737b44d5_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/c9241b7be85b907d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/cba65ea93fb7fef7_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/cd71c9cfc283e02f_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d09ca6763e1ee5e1_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d127fd526deac896_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d4f7cfce9a0b3815_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d540dc5c0b0108cc_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d6135e5ed5e34d67_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/d63c4bdbcc8bc112_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d7d5b62907974e11_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/d86b4cb9f47f0693_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/dc01d220a65be372_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/dc4d307b343564fa_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/dd30172b258f4392_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ddbf33923c876f2c_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ddf1fcc437060c5d_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/e16afb44c56a0c28_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/e1790cdbb6297eee_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/e2685c57122b5e18_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/e5f8e19a3ee022b8_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/e7c23d3d2c0b1acb_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/e85ac8952d7783d7_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ea6688cdf41852ba_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/ebdc5c6baa99fe2c_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/f3f4949f8aad0b1d_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/f4fef0711e3bb9de_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/f5b1ca0c5ba464ba_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/fa3c6a1d8c675979_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/fa548096da6b8a79_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/fb445643a55aa1f3_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/fcd224e3a56b488a_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/fd95a6ea3de3a2d2_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/fe989dff95c6ae87_0
+#	new file:   .cache/google-chrome/Default/Cache/Cache_Data/febc7ac697573785_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   .cache/google-chrome/Default/Code Cache/js/07b30b5dc59df8f1_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/187b11637430d0a7_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/1ec991397b9ed787_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/21b1e127bb95674f_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/238625bf2acb6494_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/2437b10d37c2b23a_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/29744afefff40c78_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/335e69ddec2b9ac6_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/3660507890b38b7c_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/3947ceec905cbb11_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/3ef25735145cd4a0_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/4a9b9f41f898c915_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/4da3b89ab4fb9f52_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/577c99c58e8b14a3_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/7491fb30d909da90_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/79d799844366001b_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/7be88e7acc909cb8_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/7e58bf98de994ebd_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/801b0a634fb2625f_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/82d84437d20b65be_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/8a9e6f8413a98d97_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/8b9221a61d0928d5_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/8d5d6570eafafcfa_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/9641f823a4f8b614_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/9d6d7a265c48cdf5_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/a1dd1c67e566fae2_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/ae81d355cc993cc8_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/b5a4cbeda3f42093_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/bf4cdc17a7b4901c_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/c2e7a5147e485887_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/c98bbb45a59e10c5_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/d4d9950eba863a89_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/d6db708fdf53cdb1_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/d748c67a63e38254_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/d7b1b80950fdb3ac_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/d940648ed3b724f0_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/dbedec93ac01c05f_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/ee6c8ee899db9dad_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/f4757afa4bbc4302_0
+#	new file:   .cache/google-chrome/Default/Code Cache/js/f751147152973b58_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/030ed617aa47d123_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/042d7df824737b5f_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/10bb65bc6bf51a61_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/1536c34fdc780a4a_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/2afb9234f93e4f78_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/316c3909e88a3d4a_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/42ff6423e3f12340_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/459cb1a09af2d37f_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/4ad5b956e7ed1685_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/5cb4bcf091b717b8_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/86138673e368f702_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/8965faf3ed6e0336_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/8b8a80e66e354285_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/9696f443b5a86a1d_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/bfb8edc2e1cb619d_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/c3bd681956aa5429_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/d48deb1f2cd5d3e6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/da0f96c9a6624ae0_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/ec2ea01270fb2bd6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/ed5dfde38ee8f7aa_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/f424236a3d06985b_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/fab21c50cb9e433b_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/fb4a6d9a2c327883_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/index-dir/the-real-index
+#	modified:   .config/Code/Cache/Cache_Data/a97c96d98c7c4739_0
+#	modified:   .config/Code/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   .config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/extension-a87391d7798736ad60a8e706cec49aa9.code
+#	deleted:    .config/Code/CachedExtensions/user
+#	new file:   .config/Code/User/History/5519ea8b/iL9S
+#	new file:   .config/Code/User/History/5a52c738/VQhx.css
+#	new file:   .config/Code/User/History/6dd8532d/4YuT.js
+#	new file:   .config/Code/User/History/7acfcf88/CTdI.html
+#	new file:   .config/Code/User/History/7acfcf88/UqRx.html
+#	new file:   .config/Code/User/History/7acfcf88/entries.json
+#	new file:   .config/Code/User/History/7acfcf88/t8lO.html
+#	modified:   .config/Code/User/globalStorage/storage.json
+#	modified:   .config/dconf/user
+#	renamed:    .config/google-chrome/BrowserMetrics-spare.pma -> .config/google-chrome/BrowserMetrics/BrowserMetrics-6406FF56-1242B.pma
+#	modified:   .config/google-chrome/CrashpadMetrics-active.pma
+#	new file:   .config/google-chrome/CrashpadMetrics.pma
+#	deleted:    .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log
+#	deleted:    .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000005.ldb
+#	new file:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log
+#	new file:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000009.ldb
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old
+#	modified:   .config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000026.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000028.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000030.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000031.log
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000032.ldb
+#	new file:   .config/google-chrome/Default/Local Storage/leveldb/000040.log
+#	new file:   .config/google-chrome/Default/Local Storage/leveldb/000041.ldb
+#	modified:   .config/google-chrome/Default/Network Persistent State
+#	modified:   .config/google-chrome/Default/Preferences
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d2b91bf0-e949-4102-8b96-358c32802374/0a41c5226f4ea45c_0
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d2b91bf0-e949-4102-8b96-358c32802374/index-dir/the-real-index
+#	modified:   .config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/0ae129c33e7a30bd_1
+#	renamed:    .config/google-chrome/Default/Service Worker/ScriptCache/2a0afd649b00527b_0 -> .config/google-chrome/Default/Service Worker/ScriptCache/2687cdb408524ecb_0
+#	new file:   .config/google-chrome/Default/Service Worker/ScriptCache/2687cdb408524ecb_1
+#	deleted:    .config/google-chrome/Default/Service Worker/ScriptCache/2a0afd649b00527b_1
+#	renamed:    .config/google-chrome/Default/Service Worker/ScriptCache/0ae129c33e7a30bd_0 -> .config/google-chrome/Default/Service Worker/ScriptCache/ad0c92dfa52e69b6_0
+#	new file:   .config/google-chrome/Default/Service Worker/ScriptCache/ad0c92dfa52e69b6_1
+#	modified:   .config/google-chrome/Default/Service Worker/ScriptCache/index-dir/the-real-index
+#	modified:   .config/google-chrome/Default/TransportSecurity
+#	modified:   .config/google-chrome/Local State
+#	modified:   .config/google-chrome/Safe Browsing/UrlMalBin.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlMalware.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlSoceng.store
+#	modified:   .config/google-chrome/Safe Browsing/UrlUws.store
+#	modified:   .config/google-chrome/ShaderCache/index
+#	modified:   .config/google-chrome/Variations
+#	modified:   .local/share/keyrings/login.keyring
+#	new file:   Desktop/coding/rock-paper-scissors
+#	new file:   etch-a-sketch
+#
+# Changes not staged for commit:
+#	modified:   .Xauthority
+#	modified:   .bash_history
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/036e8d82a2523a26_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/15145040f7f12f31_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/209122520b661585_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/245978184b706e47_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/2a89b14ac2539edf_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/2b4208bb188a54dc_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/2d656658d52b08f0_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/325bcece4e25c6aa_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/32ce3958fb84e5b2_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/43193770be41043b_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/442af0b747660815_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/46945d3108ecd2c4_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/645f34ff25069e8f_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6584b5d8efd562db_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6a6b6562dedb321e_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/6c6290f99b004032_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/7326b08ffc5dafaa_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/878b0f723bb46fc9_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/93d81321f8c35eab_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/9fa606b4dcc302ca_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/a01be4548294eb57_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ab207acba112382f_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/ae0a71163ebc9b4c_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/aedffab2cb0eaa46_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b2637e42df9a52cf_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b2a82ebf403507e7_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b3fbbb1463a91081_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/b84085b4eaa5fe71_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/c5743d863632f264_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/cebf0a41fc441483_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/d5c989ffe36121ce_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/de43fc9008c60b07_0
+#	deleted:    .cache/google-chrome/Default/Cache/Cache_Data/e85ac8952d7783d7_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/f4fef0711e3bb9de_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/fb445643a55aa1f3_0
+#	modified:   .cache/google-chrome/Default/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   .cache/google-chrome/Default/Code Cache/js/187b11637430d0a7_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/2437b10d37c2b23a_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/9d6d7a265c48cdf5_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/a1dd1c67e566fae2_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/ee6c8ee899db9dad_0
+#	modified:   .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/ec2ea01270fb2bd6_0
+#	modified:   .cache/google-chrome/Default/Code Cache/webui_js/index-dir/the-real-index
+#	modified:   .cache/sessions/thumbs-xubuntu15:0/Default.png
+#	modified:   .config/Code/Cache/Cache_Data/1721ac2f142f6f40_0
+#	modified:   .config/Code/Cache/Cache_Data/6b54701d8e298988_0
+#	modified:   .config/Code/Cache/Cache_Data/d121e2a6335b7510_0
+#	modified:   .config/Code/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   .config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/chrome/js/index-dir/the-real-index
+#	modified:   .config/Code/GPUCache/data_1
+#	modified:   .config/Code/GPUCache/index
+#	modified:   .config/Code/Local Storage/leveldb/LOG
+#	modified:   .config/Code/Local Storage/leveldb/LOG.old
+#	modified:   .config/Code/Network Persistent State
+#	modified:   .config/Code/Service Worker/Database/000003.log
+#	modified:   .config/Code/Service Worker/Database/LOG
+#	modified:   .config/Code/Service Worker/Database/LOG.old
+#	modified:   .config/Code/Session Storage/000003.log
+#	modified:   .config/Code/Session Storage/LOG
+#	modified:   .config/Code/Session Storage/LOG.old
+#	modified:   .config/Code/TransportSecurity
+#	modified:   .config/Code/User/History/7acfcf88/entries.json
+#	modified:   .config/Code/User/globalStorage/state.vscdb
+#	modified:   .config/Code/User/globalStorage/state.vscdb.backup
+#	modified:   .config/Code/User/globalStorage/storage.json
+#	deleted:    .config/Code/User/workspaceStorage/1677790146788/state.vscdb
+#	deleted:    .config/Code/User/workspaceStorage/1677790146788/state.vscdb.backup
+#	deleted:    .config/Code/User/workspaceStorage/1677790746263/state.vscdb
+#	deleted:    .config/Code/User/workspaceStorage/1678069749409/state.vscdb
+#	modified:   .config/Code/code.lock
+#	deleted:    .config/Code/logs/20230302T224905/editSessions.log
+#	deleted:    .config/Code/logs/20230302T224905/main.log
+#	deleted:    .config/Code/logs/20230302T224905/ptyhost.log
+#	deleted:    .config/Code/logs/20230302T224905/remoteTunnelService.log
+#	deleted:    .config/Code/logs/20230302T224905/sharedprocess.log
+#	deleted:    .config/Code/logs/20230302T224905/telemetry.log
+#	deleted:    .config/Code/logs/20230302T224905/userDataSync.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/exthost/extensionTelemetry.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/exthost/exthost.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/notebook.rendering.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/output_20230302T224909/tasks.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/renderer.log
+#	deleted:    .config/Code/logs/20230302T224905/window1/views.log
+#	deleted:    .config/Code/logs/20230302T225804/editSessions.log
+#	deleted:    .config/Code/logs/20230302T225804/main.log
+#	deleted:    .config/Code/logs/20230302T225804/ptyhost.log
+#	deleted:    .config/Code/logs/20230302T225804/remoteTunnelService.log
+#	deleted:    .config/Code/logs/20230302T225804/sharedprocess.log
+#	deleted:    .config/Code/logs/20230302T225804/telemetry.log
+#	deleted:    .config/Code/logs/20230302T225804/userDataSync.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/extensionTelemetry.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/exthost.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/output_logging_20230302T225809/1-HTML Language Server.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/output_logging_20230302T225809/2-TypeScript.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/vscode.git/Git.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/exthost/vscode.microsoft-authentication/Microsoft Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/notebook.rendering.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/output_20230302T225808/tasks.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/renderer.log
+#	deleted:    .config/Code/logs/20230302T225804/window1/views.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/exthost/extensionTelemetry.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/exthost/exthost.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/exthost/vscode.git/Git.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/exthost/vscode.microsoft-authentication/Microsoft Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/notebook.rendering.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/output_20230302T225908/tasks.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/renderer.log
+#	deleted:    .config/Code/logs/20230302T225804/window3/views.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/extensionTelemetry.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/exthost.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/output_logging_20230306T042910/1-HTML Language Server.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/output_logging_20230306T042910/2-TypeScript.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/vscode.git/Git.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/exthost/vscode.microsoft-authentication/Microsoft Authentication.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/notebook.rendering.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/output_20230306T042910/tasks.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/renderer.log
+#	deleted:    .config/Code/logs/20230302T225804/window4/views.log
+#	deleted:    .config/google-chrome/BrowserMetrics/BrowserMetrics-64059607-C7AA.pma
+#	deleted:    .config/google-chrome/BrowserMetrics/BrowserMetrics-6406FF56-1242B.pma
+#	deleted:    .config/google-chrome/CertificateRevocation/7893/LICENSE
+#	deleted:    .config/google-chrome/CertificateRevocation/7893/_metadata/verified_contents.json
+#	deleted:    .config/google-chrome/CertificateRevocation/7893/crl-set
+#	deleted:    .config/google-chrome/CertificateRevocation/7893/manifest.fingerprint
+#	deleted:    .config/google-chrome/CertificateRevocation/7893/manifest.json
+#	modified:   .config/google-chrome/CrashpadMetrics-active.pma
+#	deleted:    .config/google-chrome/CrashpadMetrics.pma
+#	modified:   .config/google-chrome/Default/Cookies
+#	modified:   .config/google-chrome/Default/DawnCache/index
+#	modified:   .config/google-chrome/Default/Extension State/LOG
+#	modified:   .config/google-chrome/Default/Extension State/LOG.old
+#	modified:   .config/google-chrome/Default/Favicons
+#	modified:   .config/google-chrome/Default/GCM Store/000003.log
+#	modified:   .config/google-chrome/Default/GCM Store/Encryption/LOG
+#	modified:   .config/google-chrome/Default/GCM Store/Encryption/LOG.old
+#	modified:   .config/google-chrome/Default/GCM Store/LOG
+#	modified:   .config/google-chrome/Default/GCM Store/LOG.old
+#	modified:   .config/google-chrome/Default/GPUCache/index
+#	modified:   .config/google-chrome/Default/History
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000005.ldb
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000040.log
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/000041.ldb
+#	modified:   .config/google-chrome/Default/Local Storage/leveldb/LOG
+#	deleted:    .config/google-chrome/Default/Local Storage/leveldb/LOG.old
+#	modified:   .config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+#	modified:   .config/google-chrome/Default/Login Data For Account
+#	modified:   .config/google-chrome/Default/Network Action Predictor
+#	modified:   .config/google-chrome/Default/Network Persistent State
+#	modified:   .config/google-chrome/Default/Preferences
+#	modified:   .config/google-chrome/Default/Reporting and NEL
+#	modified:   .config/google-chrome/Default/Service Worker/Database/LOG
+#	modified:   .config/google-chrome/Default/Service Worker/Database/LOG.old
+#	modified:   .config/google-chrome/Default/Session Storage/000007.log
+#	modified:   .config/google-chrome/Default/Session Storage/LOG
+#	modified:   .config/google-chrome/Default/Session Storage/LOG.old
+#	deleted:    .config/google-chrome/Default/Sessions/Session_13322318204467842
+#	deleted:    .config/google-chrome/Default/Sessions/Tabs_13322264529816313
+#	modified:   .config/google-chrome/Default/Site Characteristics Database/LOG
+#	modified:   .config/google-chrome/Default/Site Characteristics Database/LOG.old
+#	modified:   .config/google-chrome/Default/Sync Data/LevelDB/000003.log
+#	modified:   .config/google-chrome/Default/Sync Data/LevelDB/LOG
+#	modified:   .config/google-chrome/Default/Sync Data/LevelDB/LOG.old
+#	modified:   .config/google-chrome/Default/TransportSecurity
+#	modified:   .config/google-chrome/Default/Visited Links
+#	modified:   .config/google-chrome/Default/Web Data
+#	modified:   .config/google-chrome/Default/shared_proto_db/000003.log
+#	modified:   .config/google-chrome/Default/shared_proto_db/LOG
+#	modified:   .config/google-chrome/Default/shared_proto_db/LOG.old
+#	modified:   .config/google-chrome/Default/shared_proto_db/metadata/000003.log
+#	modified:   .config/google-chrome/Default/shared_proto_db/metadata/LOG
+#	modified:   .config/google-chrome/Default/shared_proto_db/metadata/LOG.old
+#	modified:   .config/google-chrome/GrShaderCache/index
+#	modified:   .config/google-chrome/Local State
+#	modified:   .config/google-chrome/ShaderCache/index
+#	modified:   .config/google-chrome/SingletonCookie
+#	modified:   .config/google-chrome/SingletonLock
+#	modified:   .config/google-chrome/SingletonSocket
+#	modified:   .config/google-chrome/Variations
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/_metadata/verified_contents.json
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-af.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-as.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-be.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-bg.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-bn.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-cs.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-cu.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-cy.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-da.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-de-1901.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-de-1996.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-de-ch-1901.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-el.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-en-gb.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-en-us.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-es.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-et.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-eu.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-fr.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-ga.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-gl.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-gu.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-hi.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-hr.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-hu.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-hy.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-it.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-ka.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-kn.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-la.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-lt.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-lv.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-ml.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-mn-cyrl.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-mr.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-mul-ethi.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-nb.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-nl.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-nn.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-or.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-pa.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-pt.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-ru.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-sk.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-sl.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-sq.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-sv.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-ta.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-te.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-tk.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-uk.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/hyph-und-ethi.hyb
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/manifest.fingerprint
+#	deleted:    .config/google-chrome/hyphen-data/113.0.5628.2/manifest.json
+#	modified:   .config/xfce4/desktop/icons.screen.latest.rc
+#	modified:   .config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml
+#	modified:   .local/share/gvfs-metadata/home
+#	deleted:    .local/share/gvfs-metadata/home-108bd804.log
+#	modified:   .local/share/keyrings/login.keyring
+#	modified:   .local/share/recently-used.xbel
+#	modified:   .vboxclient-clipboard.pid
+#	modified:   .vboxclient-draganddrop.pid
+#	modified:   .vboxclient-seamless.pid
+#	modified:   .vboxclient-vmsvga-session-tty7.pid
+#	modified:   .xsession-errors
+#	modified:   .xsession-errors.old
+#	deleted:    Desktop/coding/etch-a-sketch/index.html
+#	deleted:    Desktop/coding/etch-a-sketch/js.js
+#	deleted:    Desktop/coding/etch-a-sketch/styles.css
+#
+# Untracked files:
+#	.cache/google-chrome/Default/Cache/Cache_Data/06aedce6aa3e7e80_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/0bc25e6910d533d6_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/0eba34dd8c99becd_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/10b71c2e3b370bb8_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/12983691c4fd1a6e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/12f97d135b7acbbf_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/220f4010c51c61e4_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2499ca3db0313cea_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/2e6d68ed2af300c0_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/32986304987f0e7b_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/32be65a8df4b5283_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/386428311d1e1b71_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/39a2d611bb8fe0a9_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3d484e0f2785711f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/3f12038fb8764abb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/407e1201660f8d31_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4130c7395798f0fb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4323ae09d560eb81_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/455155d86aadb7e7_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4c695ce2d01c05c8_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/4c7b9e736fd8d1c4_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5b9b49f6f6595ef1_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/5ce98e729d12b4a4_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/6cadbd301079773f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/6deb75e392231d76_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/798bd329642e69ea_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/7a2bf3a703cf6b68_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/879db2256caea934_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a12c99a12d409d70_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a22419c011dc2020_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/a98a9eff2be4635e_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/abd438e014144683_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/af6b5c3d79601244_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b26121abb46c25d3_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b5828a04667ed608_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/b90da28b7d0d6c6d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bb686661a640ac1f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/bc79da2373439528_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/be4fce66a6b9d7b4_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c3765b44894710bd_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c567a6d8a4dcf3cb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c5e400f8c4c639fb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/c61f6107fb102167_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/cbd2e3c6286eb27d_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/cfe0de73585c4c0f_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d0d9f5d32fbf2ae7_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/d5b2a2e0dabbf3fb_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/de8067c99355e903_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/deecb29a535d6fc5_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e203e10199672457_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e848e643f5439d99_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/e8578e3778383228_0
+#	.cache/google-chrome/Default/Cache/Cache_Data/f44e274049775776_0
+#	.cache/google-chrome/Default/Code Cache/js/0168e1799c97e656_0
+#	.cache/google-chrome/Default/Code Cache/js/1792c1fd7f49575f_0
+#	.cache/google-chrome/Default/Code Cache/js/19050bc970e96399_0
+#	.cache/google-chrome/Default/Code Cache/js/1ac31d4397db2041_0
+#	.cache/google-chrome/Default/Code Cache/js/359ae09c86c3690a_0
+#	.cache/google-chrome/Default/Code Cache/js/3e2699d035c21400_0
+#	.cache/google-chrome/Default/Code Cache/js/48fd736e7798e6de_0
+#	.cache/google-chrome/Default/Code Cache/js/61bf0b8361a28d6b_0
+#	.cache/google-chrome/Default/Code Cache/js/6470ba596552954f_0
+#	.cache/google-chrome/Default/Code Cache/js/6af7fcb6a3069aff_0
+#	.cache/google-chrome/Default/Code Cache/js/8643aba4d8ad2a95_0
+#	.cache/google-chrome/Default/Code Cache/js/88df5c1eaa44f381_0
+#	.cache/google-chrome/Default/Code Cache/js/9c1a762e4771fec2_0
+#	.cache/google-chrome/Default/Code Cache/js/ab9aa8e50f930050_0
+#	.cache/google-chrome/Default/Code Cache/js/ad7b608a13a1093e_0
+#	.cache/google-chrome/Default/Code Cache/js/b054881a8c398f39_0
+#	.cache/google-chrome/Default/Code Cache/js/c2c341c0236aee6e_0
+#	.cache/google-chrome/Default/Code Cache/js/c3e54c742c56044a_0
+#	.cache/google-chrome/Default/Code Cache/js/cdce29c20815aa9e_0
+#	.cache/google-chrome/Default/Code Cache/js/d3c079ea09bcb669_0
+#	.cache/google-chrome/Default/Code Cache/js/d45e1e0467a5dcb2_0
+#	.cache/google-chrome/Default/Code Cache/js/d5523e5606b8211c_0
+#	.cache/google-chrome/Default/Code Cache/js/d5f5dfc3510d1cdc_0
+#	.cache/google-chrome/Default/Code Cache/js/eb26b3d627ef61d6_0
+#	.cache/sessions/xfwm4-2e975b440-3940-4120-99ef-692ed4dcb327.state
+#	.config/Code/Cache/Cache_Data/16da2c43fdcdfcb8_0
+#	.config/Code/Cache/Cache_Data/4193e7281f01d652_0
+#	.config/Code/Cache/Cache_Data/5538de94c7f581dd_0
+#	.config/Code/Cache/Cache_Data/5b60c3e41fc4930b_0
+#	.config/Code/Cache/Cache_Data/b67e4e2e68c63419_0
+#	.config/Code/Cache/Cache_Data/c97232b091adf5f3_0
+#	.config/Code/Cache/Cache_Data/d6a86c554d82f3b9_0
+#	.config/Code/Cache/Cache_Data/efe55297966b8560_0
+#	.config/Code/Cache/Cache_Data/ff76d4ba85eda307_0
+#	.config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/configurationEditingMain-21502e0dbc439331a402cdc406954e52.code
+#	.config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensionEditingMain-9b0333d7760ee26da4cc437e3cbe9cc0.code
+#	.config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/jsonClientMain-713851cc088f58be554de51104ef7f31.code
+#	.config/Code/CachedData/92da9481c0904c6adfe372c12da3b7748d74bdcb/npmMain-fe6b24d982fa2a732eedafbc03685a5a.code
+#	.config/Code/CachedExtensions/user
+#	.config/Code/User/History/5519ea8b/entries.json
+#	.config/Code/User/History/5a52c738/entries.json
+#	.config/Code/User/History/68d9a06a/
+#	.config/Code/User/History/6dd8532d/entries.json
+#	.config/Code/User/workspaceStorage/135cb55ceeedcebed3952234218dc709/
+#	.config/Code/User/workspaceStorage/1678182313268/
+#	.config/Code/User/workspaceStorage/4e5a96f6283f56a212a169abe00af537/
+#	.config/Code/User/workspaceStorage/68850d528a10155010bd9f8eccc67641/
+#	.config/Code/Workspaces/
+#	.config/Code/logs/20230307T112908/
+#	.config/Code/logs/20230307T113959/
+#	.config/Code/logs/20230307T114251/
+#	.config/Code/logs/20230307T114512/
+#	.config/google-chrome/BrowserMetrics-spare.pma
+#	.config/google-chrome/BrowserMetrics/BrowserMetrics-640707DD-B17.pma
+#	.config/google-chrome/CertificateRevocation/7895/
+#	.config/google-chrome/Default/Local Storage/leveldb/000003.log
+#	.config/google-chrome/Default/Sessions/Session_13322656104321766
+#	.config/google-chrome/Default/Sessions/Tabs_13322655968601619
+#	.config/google-chrome/Default/optimization_guide_prediction_model_downloads/0be6652f-d5bd-4653-82ed-399da81daba9/
+#	.config/google-chrome/Default/optimization_guide_prediction_model_downloads/4464e897-9744-4fa5-8453-e19d2dd4ee6c/
+#	.config/google-chrome/Default/optimization_guide_prediction_model_downloads/fca2714c-e1a2-41a6-944d-06631209860e/
+#	.config/google-chrome/OptimizationHints/382/
+#	.config/google-chrome/SafetyTips/2929/
+#	.config/google-chrome/hyphen-data/113.0.5636.0/
+#	.config/xfce4/desktop/icons.screen0-1256x893.rc
+#	.local/share/gvfs-metadata/home-c81d131b.log
+#	Desktop/New Folder/
+#

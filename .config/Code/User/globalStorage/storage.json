@@ -2,20 +2,29 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/agneta/Desktop/coding/rock-paper-scissors": "__default__profile__"
+            "file:///home/agneta/Desktop/coding/rock-paper-scissors": "__default__profile__",
+            "file:///home/agneta/Desktop/coding/etch-a-sketch": "__default__profile__",
+            "file:///home/agneta/Desktop/New%20Folder/etch-a-sketch": "__default__profile__"
         },
-        "emptyWindows": {
-            "1678178436907": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "0aa776451013c3c3f7b26f178a6ff28003d7bb874b54161a1f37ffcd9a7d06cd",
     "backupWorkspaces": {
-        "workspaces": [],
-        "folders": [],
+        "workspaces": [
+            {
+                "id": "68850d528a10155010bd9f8eccc67641",
+                "configURIPath": "file:///home/agneta/.config/Code/Workspaces/1678182439965/workspace.json"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///home/agneta/Desktop/New%20Folder/etch-a-sketch"
+            }
+        ],
         "emptyWindows": [
             {
-                "backupFolder": "1678178436907"
+                "backupFolder": "1678182313268"
             }
         ]
     },
@@ -61,6 +70,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agneta/Desktop/New%20Folder/etch-a-sketch",
+                                        "path": "/home/agneta/Desktop/New Folder/etch-a-sketch",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/New Folder/etch-a-sketch"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -356,6 +376,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Workspace"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -691,13 +715,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -786,7 +803,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -1123,7 +1141,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1319,6 +1338,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1460,11 +1484,6 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
-            },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1716,10 +1735,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/agneta/.config/Code/Backups/1678178436907",
+            "workspaceIdentifier": {
+                "id": "68850d528a10155010bd9f8eccc67641",
+                "configURIPath": "file:///home/agneta/.config/Code/Workspaces/1678182439965/workspace.json"
+            },
+            "backupPath": "/home/agneta/.config/Code/Backups/68850d528a10155010bd9f8eccc67641",
             "uiState": {
                 "mode": 1,
-                "x": 129,
+                "x": 133,
                 "y": 165,
                 "width": 1024,
                 "height": 768

@@ -1,0 +1,22 @@
+[CLIENT] 0x1e17fb9
+  [CLIENT_ID] 2cb856069-dd66-4fd1-8879-b8f08e3493f6
+  [CLIENT_LEADER] 0x1e00001
+  [WINDOW_ROLE] Thunar-1678101964-2109502961
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] /home/agneta/Desktop/coding
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (1,453,640,480)
+  [GEOMETRY-MAXIMIZED] (1,453,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
+[CLIENT] 0x5400003
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] agneta1991/Etch-a-Sketch - Google Chrome
+  [GEOMETRY] (0,25,1272,909)
+  [GEOMETRY-MAXIMIZED] (0,25,674,913)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
