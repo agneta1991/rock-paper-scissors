@@ -3,6 +3,9 @@ body{
     background-size:100%;
 }
 
+.refresh{
+    display: none;
+}
 .none{
     display: none;
 }

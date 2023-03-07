@@ -2,6 +2,8 @@ const choice = ['Rock', 'Paper', 'Scissors'];
 let playerScore = 0;
 let computerScore = 0;
 const btn = document.querySelectorAll('button');
+let refresh = document.getElementsByClassName('refresh');
+let container = document.getElementsByClassName('container1');
 
 function reset() {
     playerScore = 0;
@@ -9,8 +11,8 @@ function reset() {
     btn.forEach((individualBtn) => {
         individualBtn.classList.remove('none');
     });
-}
-
+    }
+    
 function round() {
     btn.forEach((individualBtn) => {
         individualBtn.addEventListener('click', () => {
@@ -69,12 +71,12 @@ function round() {
                 btn.forEach((individualBtn) => {
                     individualBtn.classList.add('none');
                 });
-                document.getElementById('winner').innerHTML = 'Congratulations! you have won!';
+                document.getElementById('msg').innerHTML = 'Congratulations! you have won!';
             } else if (computerScore === 5) {
                 btn.forEach((individualBtn) => {
                     individualBtn.classList.add('none');
                 });
-                document.getElementById('winner').innerHTML = 'Unfortunately computer won this time! better luck next game!';
+                document.getElementById('msg').innerHTML = 'Unfortunately computer won this time! better luck next game!';
             };
 
 
