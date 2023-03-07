@@ -1,1 +1,2 @@
-let container = document.getElementById('containerOne');
+let container = document.getElementsByClassName('containerOne');
+let anotherContainer = document.getElementsByClassName('containerTwo');
